@@ -53,12 +53,11 @@ Execute the program using runserver command.
             <area target="_blank" alt="GK pet" title="GK Pet shop" href="C:\Users\ravip\OneDrive\Documents\HTML\ImageMap\GK pet.html" coords="849,522,1064,637" shape="rect">
         </map>
     </BODY>
-</html> 
-
-
-
+</html>  
 
 # OUTPUT
+
+
 ![Screenshot 2024-11-25 130637](https://github.com/user-attachments/assets/dded9750-ea43-467a-b798-f30001a66abf)
 
 # RESULT
