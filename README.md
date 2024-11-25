@@ -23,15 +23,10 @@ Add your timetable using <td> tag.
 Execute the program using runserver command.
 
 # PROGRAM
-
 <html>
-
     <head>
-
         <title>IMAGEMAP</title>
-
         <LINK REL="ICON" href="C:\Users\ravip\OneDrive\Documents\HTML\ImageMap\global.avif">
-
             <style>
                 header{
                     background-color:moccasin;
@@ -45,7 +40,6 @@ Execute the program using runserver command.
                     color: azure;
                 }
             </style>
-
     </head>
 
     <BODY>
@@ -58,9 +52,7 @@ Execute the program using runserver command.
             <area target="_blank" alt="Dr Agarwals" title="Dr Agarwals Eye clinic" href="C:\Users\ravip\OneDrive\Documents\HTML\ImageMap\dr.html" coords="300,339,529,408" shape="rect">
             <area target="_blank" alt="GK pet" title="GK Pet shop" href="C:\Users\ravip\OneDrive\Documents\HTML\ImageMap\GK pet.html" coords="849,522,1064,637" shape="rect">
         </map>
-
     </BODY>
-
 </html> 
 
 # OUTPUT
