@@ -14,10 +14,10 @@ Create a static folder and inert HTML code.
 Create a simple table using <table> tag in html.
 
 ## STEP 4
-Add header row using ~~~<th>~~~ tag.
+Add header row using ```<th>``` tag.
 
 ## STEP 5
-Add your timetable using ~~~<td>~~~ tag.
+Add your timetable using ```<td>``` tag.
 
 ## STEP 6
 Execute the program using runserver command.
